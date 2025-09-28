@@ -3,3 +3,6 @@ O sudoku é um jogo onde você precisa colocar números em uma matriz, onde ele 
 
 # Como jogar?
 Baixe o repositório e abra o arquivo app.java, clique em run e aproveite o jogo!
+
+# Tecnologias utilizadas
+- Java
